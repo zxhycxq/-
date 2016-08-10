@@ -34,3 +34,5 @@ CSS创作指南  https://github.com/cssdream/css-creating#
 cssguidelin http://cssguidelin.es/
 
 Code Guide by @AlloyTeam-materliu  http://materliu.github.io/code-guide/
+
+Sass Guidelines — Chinese translation  http://sass-guidelin.es/zh/
