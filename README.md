@@ -39,3 +39,12 @@ cssguidelin http://cssguidelin.es/
 Code Guide by @AlloyTeam-materliu  http://materliu.github.io/code-guide/
 
 Sass Guidelines — Chinese translation  http://sass-guidelin.es/zh/
+
+
+**中文文档及API等**
+
+Less.js 中文文档  http://less.bootcss.com/
+
+RequireJS 中文网  http://www.requirejs.cn/
+
+React  http://reactjs.cn/react/index.html
