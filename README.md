@@ -25,6 +25,9 @@ CSS3 在线生成器(圆角) http://www.zi-han.net/css3/
 
 Introduction | 前端开发规范手册  http://zhibimo.com/read/Ashu/front-end-style-guide/index.html
 
+**中文文档API等**
+
+reactjs中文文档 http://reactjs.cn
 ecomfe/spec: This repository contains the specifications.  https://github.com/ecomfe/spec
 
 QQ-game重构规范  http://qqgame.qq.com/GuideToCP/index.html#
