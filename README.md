@@ -46,6 +46,10 @@ RequireJS 中文网  http://www.requirejs.cn/
 
 React  http://reactjs.cn/react/index.html
 
+起步 - vue.js  http://cn.vuejs.org/guide/
+
+Webpack中文指南  https://github.com/zhaoda/webpack-handbook
+
 **有意思的教程**
 
 JavaScript 秘密花园  http://bonsaiden.github.io/JavaScript-Garden/zh/
