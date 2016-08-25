@@ -37,6 +37,7 @@ Code Guide by @AlloyTeam-materliu  http://materliu.github.io/code-guide/
 
 Sass Guidelines — Chinese translation  http://sass-guidelin.es/zh/
 
+https://github.com/airbnb/javascript
 
 **中文文档及API等**
 
