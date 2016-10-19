@@ -58,6 +58,10 @@ React  http://reactjs.cn/react/index.html
 
 Webpack中文指南  https://github.com/zhaoda/webpack-handbook
 
+API--中文手册 - [ D3.js API 中文手册 ]  http://www.kancloud.cn/wizardforcel/d3-api-ref/101209
+
+D3.js中文版api-接口文档  http://blog.mn886.net/chenjianhua/show/773c07b3abce/index.html
+
 **有意思的教程**
 
 JavaScript 秘密花园  http://bonsaiden.github.io/JavaScript-Garden/zh/
