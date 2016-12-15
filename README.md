@@ -5,6 +5,8 @@
 
 jsbin ：http://jsbin.com
 
+介紹好用工具：JS Bin ( 網站前端工程師的學習利器 ) - 推酷  http://www.tuicool.com/articles/eEbAfm
+
 runjs：http://runjs.cn/
 
 codepen:http://codepen.io/
